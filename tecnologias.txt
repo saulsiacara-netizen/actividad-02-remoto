@@ -3,3 +3,4 @@ Tecnologia 2: Github
 Tecnologia 3: Java
 Tecnologia 4: Docker
 Tecnologia 5: Anaconda
+Tecnologia 6: Python
