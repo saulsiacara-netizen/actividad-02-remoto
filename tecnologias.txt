@@ -4,3 +4,4 @@ Tecnologia 3: Java
 Tecnologia 4: Docker
 Tecnologia 5: Anaconda
 Tecnologia 6: Python
+Tecnologia 7: Jupiter
