@@ -1,0 +1,3 @@
+SIS-2420: Actualizacion Tecnologica
+SIS-2430: Programacion Grafica
+SIS-3640: Planificacion y Control de Produccion  
