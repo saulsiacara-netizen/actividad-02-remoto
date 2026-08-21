@@ -3,3 +3,4 @@ Carrera: Ingenieria Sistemas
 Semestre: II/2026
 Materia: Actualizacion Tecnologica
 Mencion: Optimizacion y Modelamiento de Recursos-Procesos
+Ciudad: Oruro
